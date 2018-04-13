@@ -1,13 +1,13 @@
 {
-  "name": "atom-import-modules",
+  "name": "atom-import-module",
   "main": "./lib/require",
   "version": "0.0.2",
-  "description": "require js package quickily using file path",
+  "description": "A import js package quickily using file path",
   "keywords": [],
   "activationCommands": {
     "atom-workspace": "require:toggle"
   },
-  "repository": "https://github.com/likegun/atom-require-node-modules",
+  "repository": "https://github.com/ederdeivid/atom-import-module",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
