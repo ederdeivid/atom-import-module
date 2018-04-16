@@ -1,20 +1,20 @@
 {
   "name": "atom-import-module",
   "main": "./lib/require",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "A import js package quickily using file path",
   "keywords": [
-  "autocomplete",
-  "autocomplete-plus",
-  "fuzzy",
-  "atom",
-  "es6",
-  "es2015",
-  "import",
-  "vue",
-  "js import",
-  "js module"
-],
+    "autocomplete",
+    "autocomplete-plus",
+    "fuzzy",
+    "atom",
+    "es6",
+    "es2015",
+    "import",
+    "vue",
+    "js import",
+    "js module"
+  ],
   "activationCommands": {
     "atom-workspace": "require:toggle"
   },
