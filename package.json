@@ -24,7 +24,8 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "atom-select-list": "^0.2.0"
+    "atom-select-list": "^0.2.0",
+    "moment": "^2.22.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
