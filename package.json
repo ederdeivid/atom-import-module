@@ -1,7 +1,7 @@
 {
   "name": "atom-import-module",
   "main": "./lib/require",
-  "version": "0.6.0",
+  "version": "1.0.2",
   "description": "A import js package quickily using file path",
   "keywords": [
     "autocomplete",
