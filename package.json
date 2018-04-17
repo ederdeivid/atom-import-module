@@ -29,7 +29,7 @@
     "vue module imports",
     "javascript module import",
     "javascript modules import",
-    "javascript module imports",
+    "javascript module imports"
   ],
   "activationCommands": {
     "atom-workspace": "require:toggle"
