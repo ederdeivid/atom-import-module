@@ -1,7 +1,7 @@
 {
   "name": "atom-import-module",
   "main": "./lib/require",
-  "version": "1.0.2",
+  "version": "1.0.5",
   "description": "A import js package quickily using file path",
   "keywords": [
     "vue",
